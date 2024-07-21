@@ -1,6 +1,5 @@
 # 100-Days-of-Code-Python
 
 
-On a break for a few days
-
+TOTALLY BURNT OUT GOIN ON A DAY FOR REAL THIS TIME
 
