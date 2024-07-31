@@ -4,8 +4,8 @@ import requests
 import datetime as dt
 
 
-MY_LAT=28.677050
-MY_LONG=77.112091
+MY_LAT=00.677050
+MY_LONG=00.112091
 
 def is_close():
     iss=requests.get(url="http://api.open-notify.org/iss-now.json")
