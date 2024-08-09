@@ -4,7 +4,7 @@
 # from selenium.common.exceptions import NoSuchElementException
 # from selenium.webdriver.common.by import By
 # import time
-#
+
 # options = webdriver.ChromeOptions()
 # options.add_argument(r'user-data-dir=C:\Users\user\AppData\Local\Google\Chrome\User Data\Profile 2')
 # # options.add_argument(r'profile-directory=Profile 2')
